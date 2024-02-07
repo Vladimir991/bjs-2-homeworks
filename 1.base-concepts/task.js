@@ -19,7 +19,6 @@ function solveEquation(a, b, c) {
 }
 
 
-
 // 2.Кредитный калькулятор:  
 
 function calculateTotalMortgage(percent, contribution, amount, countMonths) {
