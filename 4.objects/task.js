@@ -14,7 +14,7 @@ Student.prototype.addMarks = function (...marks) {
         console.log("Error. Stident has been expelled");
         return;
     }
-    this.marks.push(...marks);
+    this.marks.push(...marks); 
 };
 
 
